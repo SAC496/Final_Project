@@ -1,6 +1,8 @@
 # Final_Project
 Sam Chung and Jake Fulton, Group 33
 
+Finding the Stinkiest Neighborhood in Pittsburgh
+
 sac496@pitt.edu
 
 jkf31@pitt.edu
